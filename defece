@@ -55,7 +55,7 @@ def banner():
         __/ |                                        
        |___/
                                                 
-                '''+W+'Creator : Mr.KingOf.Bar
+                '''+W+'Creator : Valdo
 
 def pastebin(jso):
 	get = requests.get('http://pastebin.com')
